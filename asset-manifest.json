@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/simple-mechanic/static/css/main.ec5eb8a5.css",
-    "main.js": "/simple-mechanic/static/js/main.8245f48a.js",
-    "index.html": "/simple-mechanic/index.html",
-    "main.ec5eb8a5.css.map": "/simple-mechanic/static/css/main.ec5eb8a5.css.map",
-    "main.8245f48a.js.map": "/simple-mechanic/static/js/main.8245f48a.js.map"
+    "main.css": "/username-age/static/css/main.e2284838.css",
+    "main.js": "/username-age/static/js/main.46934f7b.js",
+    "index.html": "/username-age/index.html",
+    "main.e2284838.css.map": "/username-age/static/css/main.e2284838.css.map",
+    "main.46934f7b.js.map": "/username-age/static/js/main.46934f7b.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec5eb8a5.css",
-    "static/js/main.8245f48a.js"
+    "static/css/main.e2284838.css",
+    "static/js/main.46934f7b.js"
   ]
 }
